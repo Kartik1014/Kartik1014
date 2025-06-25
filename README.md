@@ -12,7 +12,7 @@
 <div align="center" style="background: #23272f; border: 2px solid #3498DB; border-radius: 16px; padding: 24px; margin-bottom: 32px; box-shadow: 0 4px 10px rgba(0,0,0,0.08);">
   <table align="center" cellspacing="0" cellpadding="10" style="width: 90%; text-align: center; font-family: Arial, sans-serif; border-spacing: 20px; color: #ECF0F1; font-size: 20px;">
     <tr>
-      <th colspan="4" style="font-size: 28px; padding: 12px; background: #3498DB; color: white; border-radius: 8px; border: 2px solid #2980B9; font-weight: bold;">🛠 DevOps</th>
+      <th colspan="4" style="font-size: 38px; padding: 12px; background: #3498DB; color: white; border-radius: 8px; border: 2px solid #2980B9; font-weight: bold;">🛠 DevOps</th>
     </tr>
     <tr>
       <td style="border: 1px solid #3498DB; border-radius: 8px;">
@@ -33,7 +33,7 @@
       </td>
     </tr>
     <tr>
-      <th colspan="4" style="font-size: 28px; padding: 12px; background: #E67E22; color: white; border-radius: 8px; border: 2px solid #CA6F1E; font-weight: bold;">🌐 Frameworks</th>
+      <th colspan="4" style="font-size: 38px; padding: 12px; background: #E67E22; color: white; border-radius: 8px; border: 2px solid #CA6F1E; font-weight: bold;">🌐 Frameworks</th>
     </tr>
     <tr>
       <td style="border: 1px solid #E67E22; border-radius: 8px;">
@@ -54,7 +54,7 @@
       </td>
     </tr>
     <tr>
-      <th colspan="4" style="font-size: 28px; padding: 12px; background: #27AE60; color: white; border-radius: 8px; border: 2px solid #229954; font-weight: bold;">💻 Languages & Databases</th>
+      <th colspan="4" style="font-size: 38px; padding: 12px; background: #27AE60; color: white; border-radius: 8px; border: 2px solid #229954; font-weight: bold;">💻 Languages & Databases</th>
     </tr>
     <tr>
       <td style="border: 1px solid #27AE60; border-radius: 8px;">
